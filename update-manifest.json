@@ -1,0 +1,8 @@
+{
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.5/DeviceInfo-v1.0.5.apk",
+  "whatsNew": "Public prerelease updates with in-app prompts and background notifications; charge-session details, 200 ms flow charts, updated typography and leaderboard preview.",
+  "prerelease": true,
+  "sha256": "54c82b0ab7885812149945b29bc07be070e1bbbf8c4713d6c0a1aae2958a9386"
+}
