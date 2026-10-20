@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.5/DeviceInfo-v1.0.5.apk",
-  "whatsNew": "Public prerelease updates with in-app prompts and background notifications; charge-session details, 200 ms flow charts, updated typography and leaderboard preview.",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.6/DeviceInfo-v1.0.6.apk",
   "prerelease": true,
-  "sha256": "54c82b0ab7885812149945b29bc07be070e1bbbf8c4713d6c0a1aae2958a9386"
+  "whatsNew": "Live device programme: leaderboard comparisons, anonymous feedback and reward codes. New Hub carousel, setup, cooldown guidance, charge/discharge history and unit-aware session graphs.",
+  "sha256": "c3a1b3dfe287e7753d503b68e1b0a5505ddf1dac7a4c1bf314daf88cc2b20761"
 }
