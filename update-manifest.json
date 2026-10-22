@@ -1,8 +1,9 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "1.0.7",
-  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.7/DeviceInfo-v1.0.7.apk",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.7-r2/DeviceInfo-v1.0.7-r2.apk",
   "prerelease": true,
-  "whatsNew": "Clay-style navigation and organized sections. COD Mobile capability estimates, reward codes in Settings, monitor restart and setup fixes. Separate watt rankings and clearly labelled complete/partial discharge SOT.",
-  "sha256": "7ee6ab5f19faa05bb0c5beb39c5cb3f708853a68493126e612a1e1e5078daba5"
+  "whatsNew": "1.0.7 rebuild (r2): compact offline SoC catalogue and layered detection; separate detected/marketed chip names; low-confidence RAM fallback for game checks; automatic cooldown attempts with restoration reporting; Check for new build in the Hub bell.",
+  "releaseTag": "v1.0.7-r2",
+  "sha256": "c3783d49333dc15685b5aa65e4bf9dc0be819142aee1b3578637487677e2d879"
 }
