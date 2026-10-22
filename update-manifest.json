@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
+  "versionCode": 10,
   "versionName": "1.0.7",
-  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.7-r2/DeviceInfo-v1.0.7-r2.apk",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.7-r3/DeviceInfo-v1.0.7-r3.apk",
   "prerelease": true,
-  "whatsNew": "1.0.7 rebuild (r2): compact offline SoC catalogue and layered detection; separate detected/marketed chip names; low-confidence RAM fallback for game checks; automatic cooldown attempts with restoration reporting; Check for new build in the Hub bell.",
-  "releaseTag": "v1.0.7-r2",
-  "sha256": "c3783d49333dc15685b5aa65e4bf9dc0be819142aee1b3578637487677e2d879"
+  "whatsNew": "1.0.7 r3: right-side chart extremes and peak guides; section-aware back gestures; search suggestions; JSON-based estimated ratings; consistent storage wording; Exynos 2200 benchmark reference removed.",
+  "releaseTag": "v1.0.7-r3",
+  "sha256": "b9a565d1a4ce0fc8c8758caa1e46bb98102b0ed46e69f203c53d230b1cb8c40f"
 }
