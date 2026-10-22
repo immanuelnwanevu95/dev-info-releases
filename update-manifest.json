@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.6/DeviceInfo-v1.0.6.apk",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.7/DeviceInfo-v1.0.7.apk",
   "prerelease": true,
-  "whatsNew": "Live device programme: leaderboard comparisons, anonymous feedback and reward codes. New Hub carousel, setup, cooldown guidance, charge/discharge history and unit-aware session graphs.",
-  "sha256": "c3a1b3dfe287e7753d503b68e1b0a5505ddf1dac7a4c1bf314daf88cc2b20761"
+  "whatsNew": "Clay-style navigation and organized sections. COD Mobile capability estimates, reward codes in Settings, monitor restart and setup fixes. Separate watt rankings and clearly labelled complete/partial discharge SOT.",
+  "sha256": "7ee6ab5f19faa05bb0c5beb39c5cb3f708853a68493126e612a1e1e5078daba5"
 }
