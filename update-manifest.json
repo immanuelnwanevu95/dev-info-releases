@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.7-r5/DeviceInfo-v1.0.7-r5.apk",
+  "versionCode": 13,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.8-r1/DeviceInfo-v1.0.8-r1.apk",
   "prerelease": true,
-  "whatsNew": "1.0.7 r5: known-chip COD checks use SoC + RAM or SoC year/tier + RAM, never RAM-only; missing RAM is unavailable. Preserves r4 device rating, standing battery health and clay UI.",
-  "releaseTag": "v1.0.7-r5",
-  "sha256": "3777bcb5b87f0fd3a632b7b035b0685da75381ce80614ec1fece7bf6b47644ee"
+  "whatsNew": "Rearranged battery section, working on battery health analysis, ui revamp. Thanks for testing!. please report any bugs >-<..",
+  "releaseTag": "v1.0.8-r1",
+  "sha256": "5b7487930180d46693623e38ed4a67a5e8de645e783bdda04ff4ea72d4f9e2a0"
 }
