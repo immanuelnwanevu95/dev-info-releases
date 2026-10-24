@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
+  "versionCode": 15,
   "versionName": "1.0.8",
-  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.8-r2/DeviceInfo-v1.0.8-r2.apk",
+  "apkUrl": "https://github.com/immanuelnwanevu95/dev-info-releases/releases/download/v1.0.8-r3/DeviceInfo-v1.0.8-r3.apk",
   "prerelease": true,
-  "whatsNew": "Startup stability fixes. Thanks for testing! Please report any bugs.",
-  "releaseTag": "v1.0.8-r2",
-  "sha256": "917850e751037eb68ae364c162122740d3954f8ee3f67c43bf52bc32041afd0b"
+  "whatsNew": "Fixed a startup crash caused by navigation serialization in optimized release builds. Thanks for testing! Please report any bugs.",
+  "releaseTag": "v1.0.8-r3",
+  "sha256": "84333fe8b2b3702a18237123ac589afe96a826532bdc36ab81a4050a69d9aeb4"
 }
